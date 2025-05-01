@@ -1,0 +1,15 @@
+Berikut materi yang saya pelajari sebelom uts
+1. Data
+Saya mempelajari jenis-jenis data (kualitatif dan kuantitatif), serta bagaimana cara memastikan kualitas data itu bagus. saya juga belajar preprocessing data, seperti cara menangani data kosong, normalisasi, dan mengubah data kategorikal ke numerik. 
+Hal ini penting supaya data bisa diolah oleh algoritma.
+
+2. Eksplorasi Data
+Sebelum membangun model, saya melakukan eksplorasi data. Ini termasuk analisis statistik sederhana (seperti rata-rata dan standar deviasi) dan visualisasi data pakai grafik. 
+Tujuannya biar lebih paham isi data yang kita punya.
+
+3. Klasifikasi
+Bagian ini cukup menarik. saya belajar konsep klasifikasi dan fokus pada dua algoritma utama: Decision Tree dan Naïve Bayes. Keduanya digunakan untuk memprediksi kelas atau kategori suatu data.
+saya juga membahas jurnal dari Rinna Rachmatika (2020) yang membandingkan model klasifikasi untuk evaluasi kinerja mahasiswa. Ini membantu kami melihat bagaimana teori diterapkan di penelitian nyata.
+
+4. Penerapan Python
+saya belajar dasar-dasar Python, terutama yang berkaitan dengan data science, lalu mencoba membangun model klasifikasi (Decision Tree) secara langsung. Ini bagian praktik yang bikin konsep lebih mudah dipahami.
